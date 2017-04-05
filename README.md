@@ -10,5 +10,7 @@ Requires Node >= 7.3
 
 $ git clone git@github.com:ErikPeterson/tic-tac-toe-shell
 $ cd tic-tac-toe-shell
+$ npm install
 $ node app.js
+
 ```
