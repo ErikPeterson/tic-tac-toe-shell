@@ -6,7 +6,7 @@ Shell based two player tic tac toe. WIP
 
 Requires Node >= 7.3
 
-```sh
+```bash
 
 $ git clone git@github.com:ErikPeterson/tic-tac-toe-shell
 $ cd tic-tac-toe-shell
