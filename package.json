@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "tic-tac-toe-core": "ErikPeterson/tic-tac-toe-core"
-  }
+  },
+  "repository" : "ErikPeterson/tic-tac-toe-shell"
 }
