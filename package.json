@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe-shell",
+  "version": "0.0.1",
+  "description": "Two player tic tac toe in the shell",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Sälgström Peterson <eriksalgstrom@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tic-tac-toe-core": "ErikPeterson/tic-tac-toe-core"
+  }
+}
